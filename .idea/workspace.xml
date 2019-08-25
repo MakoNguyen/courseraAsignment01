@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5f98bf5-7d95-4c00-8676-f1007a709a30" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,29 +14,7 @@
     <SUITE FILE_PATH="coverage/nand2tetris$assembler.coverage" NAME="assembler Coverage Results" MODIFIED="1566725713984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/06" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/projects/06/assembler.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1375">
-              <caret line="70" column="17" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="17" />
-              <folding>
-                <element signature="e#25#34#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projects/06/constants.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -95,49 +72,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="nand2tetris" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nand2tetris" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nand2tetris" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nand2tetris" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nand2tetris" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nand2tetris" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="04" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nand2tetris" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nand2tetris" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="06" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nand2tetris" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nand2tetris" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="06" type="462c0819:PsiDirectoryNode" />
-              <item name="pong" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nand2tetris" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nand2tetris" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="06" type="462c0819:PsiDirectoryNode" />
-              <item name="rect" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -173,6 +109,9 @@
       <module name="nand2tetris" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projects/06" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -200,18 +139,19 @@
       <option name="presentableId" value="Default" />
       <updated>1566566295363</updated>
       <workItem from="1566566296976" duration="31898000" />
-      <workItem from="1566726008872" duration="10573000" />
+      <workItem from="1566726008872" duration="10824000" />
+      <workItem from="1566739661708" duration="106000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42471000" />
+    <option name="totallyTimeSpent" value="42828000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
       <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.3299363" />
@@ -261,9 +201,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/06/add/Add.hack">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/06/add/Add.hack" />
     <entry file="file://$PROJECT_DIR$/projects/06/max/Max.asm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -271,16 +209,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/06/max/Max.hack">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/06/rect/Rect.hack">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/06/max/Max.hack" />
+    <entry file="file://$PROJECT_DIR$/projects/06/rect/Rect.hack" />
     <entry file="file://$PROJECT_DIR$/projects/06/rect/RectL.asm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -288,9 +218,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/06/pong/Pong.hack">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/06/pong/Pong.hack" />
     <entry file="file://$PROJECT_DIR$/projects/06/pong/Pong.asm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="317826">
@@ -305,16 +233,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/06/pong.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/06/constants.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/06/pong.txt" />
     <entry file="file://$PROJECT_DIR$/projects/06/assembler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1375">
@@ -322,6 +241,13 @@
           <folding>
             <element signature="e#25#34#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/06/constants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
         </state>
       </provider>
     </entry>
